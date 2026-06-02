@@ -1,13 +1,13 @@
 # Week 2 Agenda
 
-Use this 10-minute meeting script for Week 2.
+Use this 60-minute club meeting structure for Week 2.
+Split it into six 10-minute blocks.
 
 | Minute | What to say | What to do |
 |---|---|---|
-| 0-1 | Today we need clear owners, blockers, and next steps. | Start the timer and state the meeting goal |
-| 1-3 | What changed since last week? | Each team gives a short progress update |
-| 3-5 | What is blocked right now? | List blockers and ask for help |
-| 5-7 | What decisions do we need today? | Approve scope changes, role swaps, or priorities |
-| 7-9 | What will be done by next meeting? | Assign exact tasks and owners |
-| 9-10 | Repeat the commitments. | Confirm the action items and close |
-
+| 0-10 | Goal and recap | Review last week's commitments and set today's goal |
+| 10-20 | Team A progress | Team A shows the MVP work and current blockers |
+| 20-30 | Team B progress | Team B shows the MVP work and current blockers |
+| 30-40 | Help and pairing | Match blockers with helpers and mentors |
+| 40-50 | Decisions and scope | Decide what stays in the MVP and what waits |
+| 50-60 | Next steps | Assign tasks, owners, and demo goals for the next week |
