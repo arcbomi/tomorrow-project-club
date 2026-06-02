@@ -42,8 +42,8 @@ Each person picks one main role and may pick one support role if the team is sma
 | DevOps Engineer | Sets up repo structure, CI, deployment, and release checks | Add the basic repository setup and workflow file |
 | QA Tester | Finds bugs, writes test cases, and checks the demo before release | Create a smoke test checklist |
 | Documentation Writer | Writes README files, setup steps, and release notes | Draft the project intro and setup section |
-| Presenter | Explains the project to others, prepares slides, and helps with voting | Write a 60-second project pitch |
-| Maintainer | Reviews changes, tags releases, and keeps the handoff clean | Make the release checklist |
+| Presenter (in week 4)| Explains the project to others, prepares slides, and helps with voting | Write a 60-second project pitch |
+| Maintainer (after week 4)| Reviews changes, tags releases, and keeps the handoff clean | Make the release checklist |
 
 ## 4. Where The Details Live
 
