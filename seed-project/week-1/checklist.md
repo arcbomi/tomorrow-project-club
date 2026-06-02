@@ -1,6 +1,6 @@
 # Week 1 Checklist
 
-- [ ] Introduce candidates for main leader and secondary leader
+- [ ] Introduce candidates for main leader
 - [ ] Run the anonymous leadership vote
 - [ ] Split the club into two teams
 - [ ] Choose a project that solves a real problem

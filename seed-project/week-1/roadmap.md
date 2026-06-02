@@ -18,8 +18,6 @@ Use this page to write the first plan for the project.
 ## 3. Team Ownership
 
 - Main Leader:
-- Secondary Leader:
-- Project Manager:
 - Frontend:
 - Backend:
 - UI/UX:
@@ -28,12 +26,6 @@ Use this page to write the first plan for the project.
 - Documentation:
 - Presenter:
 - Maintainer:
-
-## 4. Risks
-
-- What might block the team:
-- What help is needed:
-- What should stay small:
 
 ## 5. Weekly Plan
 
@@ -61,4 +53,3 @@ Use this page to write the first plan for the project.
 - Freeze the code
 - Rehearse the presentation
 - Show the project publicly
-

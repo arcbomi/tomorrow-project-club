@@ -6,8 +6,9 @@ Week 4 is about finishing well and presenting clearly.
 
 - Freeze the project
 - Rehearse the demo
-- Present in public
-- Record the winner and archive the season
+- Present in the club first
+- Present again in the amphitheatre in front of people
+- Choose the winning project for real-case use and archive the season
 
 ## What Leaders Do
 
@@ -32,16 +33,21 @@ Week 4 is about finishing well and presenting clearly.
 ## Deliverables
 
 - Code freeze
+- Club showcase
+- Amphitheatre showcase
 - Final demo
-- Vote results
 - Vote record
+- Winning project
 - Archive handoff
 
 ## Done When
 
 - The project is frozen before the showcase
+- The club showcase is complete
+- The amphitheatre showcase is complete
 - The presentation is ready
 - The vote record is complete
+- The winning project is selected for real-case use
 - The archive record is ready
 
 ## Important Rules
@@ -49,6 +55,8 @@ Week 4 is about finishing well and presenting clearly.
 - No surprise feature changes right before the event
 - Keep the event fair for both teams
 - Use the same time limit, room, and rules for both teams
+- The club showcase happens first
+- The amphitheatre showcase happens second
 
 ## Related Files
 

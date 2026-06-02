@@ -1,6 +1,11 @@
 # Final Showcase Rules
 
-The final showcase is the public moment where the teams present what they built.
+Week 4 has two showcases:
+
+- First showcase: in the club
+- Second showcase: in front of people in the amphitheatre
+
+The club showcase is the first run-through, and the amphitheatre showcase is the public final presentation.
 
 ## Before the Event
 
@@ -9,7 +14,7 @@ The final showcase is the public moment where the teams present what they built.
 - Make sure the same screen, sound, and time limit are used for both teams
 - Bring a backup plan in case the internet or demo device fails
 
-## 10-Minute Showcase Flow
+## Club Showcase Flow
 
 | Minute | What to say or do |
 |---|---|
@@ -19,6 +24,10 @@ The final showcase is the public moment where the teams present what they built.
 | 5-7 | Show the stack, repo, license, and open source proof |
 | 7-9 | Explain each member's contribution and what they learned |
 | 9-10 | Q&A |
+
+## Amphitheatre Showcase Flow
+
+Use the same 10-minute flow for the amphitheatre showcase.
 
 ## Presentation Tips
 
@@ -30,8 +39,9 @@ The final showcase is the public moment where the teams present what they built.
 
 ## Voting Fairness
 
-- Use the same vote sheet for both teams
-- One person should get one vote per award category
+- Use the same online voting form for both teams
+- Give each voter a unique code
+- One code should be used once for the full vote
 - Keep the vote count private until the end
 - If a volunteer helps one team with setup, they should not count that team's votes
 - If a vote ties, run a quick runoff vote

@@ -1,32 +1,26 @@
 # Voting Rules
 
-Voting should be fair, simple, and decide the awards directly.
+Voting should be fair, simple, and happen online with voter codes.
 
 ## Audience Voting
 
-- Audience members can vote for Team A, Team B, or Abstain in each award category
-- Audience voting should open after both teams have presented
-- Every award should be decided by the highest vote total
-
-## Awards
-
-- Best Project: highest vote total
-- Best Leadership: highest vote total for leadership
-- Best Technical Execution: highest vote total for technical work
-- Best UI/UX: highest vote total for design and usability
-- Best Community Contribution: highest vote total for teamwork and helpfulness
-- People's Choice: audience vote only
+- Audience members receive a unique code before voting
+- Voters enter the code into the online voting page
+- Each code can be used once
+- Audience voting should open after both showcases
+- The project with the highest vote total wins and will be used for real-case use
 
 ## Tie-Breakers
 
 If two teams are tied, break the tie in this order:
 
 1. Quick runoff vote
-2. Shared award if the runoff is still tied
+2. A second short runoff vote after a short final pitch
+3. Club leader and club maintainer choose the project that is easier to use in a real case
 
 ## Fairness Rules
 
 - Keep the vote secret until the end
-- Use the same vote sheet for both teams
+- Use the same online voting page for both teams
 - Do not let people vote twice in the same category
 - Keep the event friendly and respectful

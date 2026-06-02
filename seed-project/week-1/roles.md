@@ -5,8 +5,6 @@ Each person should choose one main role and, if needed, one support role.
 | Role | What this role does | Starter task |
 |---|---|---|
 | Main Leader | Runs the team, keeps the work moving, and removes blockers | Open the kickoff meeting and assign the first tasks |
-| Secondary Leader | Backups the main leader, records decisions, and tracks follow-up work | Write the meeting notes |
-| Project Manager | Breaks the project into tasks and keeps the roadmap realistic | Create the issue list and labels |
 | Frontend Developer | Builds screens, layout, and user interactions | Create the first app screen |
 | Backend Developer | Builds APIs, data handling, auth, and server logic | Stub the first endpoint or data model |
 | UI/UX Designer | Makes wireframes, user flows, and interface improvements | Draw the first wireframe |
@@ -21,4 +19,3 @@ Each person should choose one main role and, if needed, one support role.
 - One person can hold one main role and one support role if the team is small
 - Roles can change at weekly review time if the team agrees
 - The title should match the real work, not just a cool name
-

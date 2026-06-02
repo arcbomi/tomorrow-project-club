@@ -1,8 +1,8 @@
 # Club Official Projects
 
-This folder is the official archive for the season winners and handoff records.
+This folder is the official archive for the season-winning project and handoff records.
 
-It should store the final public record for the projects that finished the season well.
+It should store the final public record for the project that won and will be used in the real case.
 
 ## What Goes Here
 
