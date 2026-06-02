@@ -21,5 +21,8 @@ Core rules:
 
 - Public code only
 - No student personal data or sensitive school data in public repos
-- Go, JavaScript, and TypeScript are the allowed implementation languages
+- Core stack: React or Next.js, Go, Node.js, Fastify, PostgreSQL, Redis, Kafka, pnpm, Docker, and GitHub Actions
+- Tailwind is allowed, SCSS is not allowed
+- GraphQL is not allowed
+- TypeScript only, no plain JavaScript
 - MIT is the default license

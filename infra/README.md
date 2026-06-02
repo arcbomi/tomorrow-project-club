@@ -2,23 +2,23 @@
 
 This file sets the club's technical boundaries.
 
-## Allowed Implementation Tech
+## Allowed Project Stack
 
-- Go
-- JavaScript
-- TypeScript
+- Frontend: React or Next.js
+- Styling: Tailwind CSS is allowed
+- Styling: SCSS is not allowed
+- Package manager: pnpm
+- Backend services: Go or Node.js with Fastify
+- Data: PostgreSQL
+- Cache: Redis
+- Eventing / queues: Kafka
+- Containerization: Docker
+- CI: GitHub Actions
+- Language: TypeScript only
+- API style: REST/JSON only, no GraphQL
 
-These are the allowed languages for project implementation code.
+Plain JavaScript is not allowed for project code.
 
-## Allowed Support Files
-
-- Markdown
-- JSON
-- YAML
-- HTML
-- CSS
-
-These files can support the project, but they should not become a hidden second language policy.
 
 ## Repository Rules
 
@@ -35,7 +35,7 @@ These files can support the project, but they should not become a hidden second 
 
 ## Tooling Rules
 
-- Prefer Go or Node-based tooling for automation
+- Prefer Node.js, pnpm, and TypeScript-based tooling for automation
 - Keep helper scripts small and documented
 - Do not introduce another major runtime language just for convenience
 
@@ -44,4 +44,3 @@ These files can support the project, but they should not become a hidden second 
 - Check the license before importing code, fonts, icons, or other assets
 - Keep attribution notes in the repo when needed
 - Do not copy code from an unknown source
-

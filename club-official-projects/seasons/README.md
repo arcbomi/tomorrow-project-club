@@ -2,5 +2,4 @@
 
 Each folder inside this directory represents one club season.
 
-Use a simple naming pattern like `season-01`, `season-02`, and so on.
-
+Use `season-template` as the starter folder, then copy it to create new season folders for each club season.

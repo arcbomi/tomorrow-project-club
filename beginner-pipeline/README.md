@@ -2,8 +2,10 @@
 
 New members should always have a clear way to get started.
 
-## Stage 1: Orientation
+## Stage 1: Join a Team and Orientation
 
+- Always join a team first
+- After you join, ask the team leader for a job title that fits the work
 - Meet the team
 - Learn the project goal
 - Learn GitHub basics
@@ -38,4 +40,3 @@ New members should always have a clear way to get started.
 - Help the beginner pick the right issue
 - Check that the beginner does not get stuck for too long
 - Celebrate the first finished task
-

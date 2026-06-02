@@ -10,7 +10,7 @@ The record should include:
 - Release or tag link
 - Demo link
 - Screenshots
-- Final scorecard link
+- Final vote record link
 - Primary maintainer
 - Backup maintainer
 - Maintainer handoff notes

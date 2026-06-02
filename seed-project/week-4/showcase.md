@@ -28,9 +28,10 @@ The final showcase is the public moment where the teams present what they built.
 - Make the demo understandable to non-developers
 - Keep slides short and readable
 
-## Judge Fairness
+## Voting Fairness
 
-- Judges should score independently
-- Judges should not change scores after hearing other judges unless the event rules allow it
-- If a judge mentored a team, that judge should not score that team
-
+- Use the same vote sheet for both teams
+- One person should get one vote per award category
+- Keep the vote count private until the end
+- If a volunteer helps one team with setup, they should not count that team's votes
+- If a vote ties, run a quick runoff vote

@@ -34,14 +34,14 @@ Week 4 is about finishing well and presenting clearly.
 - Code freeze
 - Final demo
 - Vote results
-- Scorecard
+- Vote record
 - Archive handoff
 
 ## Done When
 
 - The project is frozen before the showcase
 - The presentation is ready
-- The scorecard is complete
+- The vote record is complete
 - The archive record is ready
 
 ## Important Rules
@@ -54,4 +54,3 @@ Week 4 is about finishing well and presenting clearly.
 
 - [Showcase Rules](showcase.md)
 - [Voting Rules](voting.md)
-

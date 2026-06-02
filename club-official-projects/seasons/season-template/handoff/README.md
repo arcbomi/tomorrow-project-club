@@ -8,4 +8,3 @@ Use this folder for:
 - Final maintenance notes
 - Links to the live repo and tag
 - Notes about who will maintain the project next
-
