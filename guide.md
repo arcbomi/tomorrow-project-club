@@ -6,6 +6,8 @@ The club builds useful open source projects in short 4-week seasons. Two teams c
 
 If you want the detail for a specific part, use the linked docs:
 
+- [Learning Culture](learning-culture.md)
+- [Team Handbook](team-handbook.md)
 - [Seed Project Playbook](seed-project/README.md)
 - [Beginner Pipeline](beginner-pipeline/README.md)
 - [Maintainers](maintainers/README.md)
