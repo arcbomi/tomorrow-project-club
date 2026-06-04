@@ -5,8 +5,8 @@ This repository is the handbook for the Open Source Community Battle Club.
 Start here:
 
 - [Guide](guide.md)
-- [Learning Culture](learning-culture.md)
-- [Team Handbook](team-handbook.md)
+- [Learning Culture](beginner-pipeline/learning-culture.md)
+- [Team Handbook](seed-project/team-handbook.md)
 - [Seed Project Playbook](seed-project/README.md)
 - [Beginner Pipeline](beginner-pipeline/README.md)
 - [Maintainers](maintainers/README.md)
